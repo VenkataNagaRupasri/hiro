@@ -1,3 +1,6 @@
+
+
+
 // event-rotate.js
 // This component rotates an entity at every frame tick (might add limiter to conserve resources)
 AFRAME.registerComponent("rotation-tick", {
